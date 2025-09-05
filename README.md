@@ -27,8 +27,8 @@
 ## Как со мной связаться?
 
 *   **Email:** [ingvarivanov88@gmail.com](ingvarivanov88@gmail.com)
-*   **GitHub:** [[https://github.com/ingvarivanov88-collab](https://github.com/ingvarivanov88-collab)]
+*   **GitHub:** https://github.com/ingvarivanov88-collab
 
-<p align="center">
-  <img src="photo.jpg" width="300" alt="Мое фото" />
-</p>
+## Мое фото
+![photo](https://github.com/user-attachments/assets/f0483342-3666-4e68-ab83-3245d01a47f9)
+
